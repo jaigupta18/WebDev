@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: rgb(255, 255, 255);
+}
+
+
+#navbar {
+    height: 60px;
+    background-color: black;
+    padding-top: 25px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    background-color: #f08804; 
+}
+
+
+/*
+The issue with the text color not appearing as white (rgb(255, 255, 255))
+ is because the color property defined in the global CSS rule * { ... } does not apply 
+ to inline elements like a (anchor tags) unless they inherit it or have it explicitly set.
+
+To fix this, you need to specifically set the color property for the anchor (a) tags. 
+You can add this rule to your CSS:
+*/
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+    
+}

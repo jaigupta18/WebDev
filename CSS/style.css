@@ -1,0 +1,157 @@
+/* h1 {
+    color: Red;
+}
+p {
+    color: blueviolet;
+}  
+button {
+    color:brown ;
+    background-color: rgba(13, 44, 13, 0.527);
+}
+
+body { */
+    /* background-color:rgb(73, 43, 87); */
+    /* background-color: #68a19e;
+} */
+
+/* *{
+    color: blueviolet;
+}
+
+h1{
+    color: red;
+}
+
+button{
+    color : blue;
+}
+
+#HeadingOne {
+    color : green;
+}
+#Headingtwo{
+    color: blue;
+}
+.myclass {
+    color: black;
+} */
+
+/* p {
+    /* text-align: center; */
+    /* text-align: end;
+    font-family: cursive;
+} */
+/* #Heading {
+    text-align: center;
+    text-decoration: underline;
+} */
+
+/* a { */
+    /* text-decoration: blue underline; */
+    /* color: blue; */
+    /* text-decoration: green wavy underline;
+} */
+
+/* #heading1 {
+    font-weight: lighter;
+}
+#heading3 {
+    font-family: 100;
+}  */
+
+/* #p1 {
+    line-height: 20px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+#p2 {
+    font-size: 50px;
+}
+
+#outer{
+    font-size: 20px;
+    border-width: 2px;
+    border-color: brown;
+    text-align: center;
+    border-style:dashed;
+}
+
+#inner{
+    font-size: 10px;
+    border : 2px dotted brown;
+}
+
+#div1 {
+    background-color: azure;
+    height: 100px;
+    width: 500px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: dotted;
+} */
+
+/* div {
+    background-color: azure;
+    border : 2px dotted brown; */
+    /* border-radius: 20%; */
+    /* height: 100px;
+    width: 100px;
+    padding-left: 25px; */
+    /* padding-bottom: 25px; */
+    /* padding : 25px 25px 25px 25px; */
+    /* padding: 25px; */
+    /* margin-bottom: 25px; */
+    /* margin: 25px; */
+/* } */
+
+
+/* div {
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: rgba(0,255,0,0.25);
+
+} */
+/* button {
+    display: block;
+} */
+
+/* #box2 {
+    /* display: none; */
+    /* visibility:hidden;
+}  */
+
+/* #id1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#id2 {
+    height: 50px;
+    width: 30%;
+    background-color: blue;
+    margin-left: 10% ;
+    font-size: 2em;
+    width: 5rem;
+} */
+ div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+ }
+
+ #box1 {
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+ }
+
+ #box2 {
+    position: static;
+ }
